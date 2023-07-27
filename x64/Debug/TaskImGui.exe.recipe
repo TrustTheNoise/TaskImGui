@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Proga\TaskImGui\x64\Debug\TaskImGui.exe</FullPath>
+      <FullPath>C:\Proga\Cpp\TaskImGui\TaskImGui.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

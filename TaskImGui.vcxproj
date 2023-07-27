@@ -97,10 +97,12 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <IncludePath>C:\Proga\TaskImGui\Libraries\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Proga\TaskImGui\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>C:\Proga\TaskImGui\Libraries\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Proga\TaskImGui\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <IncludePath>C:\Proga\TaskImGui\Libraries\include;$(IncludePath)</IncludePath>

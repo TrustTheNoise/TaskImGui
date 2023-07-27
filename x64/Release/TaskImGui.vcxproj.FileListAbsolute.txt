@@ -1,1 +1,2 @@
 C:\Proga\TaskImGui\x64\Release\TaskImGui.exe
+C:\Proga\Cpp\TaskImGui\x64\Release\TaskImGui.exe

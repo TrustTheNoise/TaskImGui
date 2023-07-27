@@ -1,8 +1,2 @@
-﻿  App.cpp
-C:\Proga\TaskImGui\App.cpp(24,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Proga\TaskImGui\App.cpp(24,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Proga\TaskImGui\App.cpp(135,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Proga\TaskImGui\App.cpp(134,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Proga\TaskImGui\App.cpp(144,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Proga\TaskImGui\App.cpp(169,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-  TaskImGui.vcxproj -> C:\Proga\TaskImGui\x64\Debug\TaskImGui.exe
+﻿  LINK : не найден или не выполнена сборка C:\Proga\Cpp\TaskImGui\TaskImGui.exe при последней инкрементной компоновке; выполняется полная компоновка
+  TaskImGui.vcxproj -> C:\Proga\Cpp\TaskImGui\TaskImGui.exe
