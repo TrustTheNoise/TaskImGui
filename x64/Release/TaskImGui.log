@@ -1,0 +1,8 @@
+﻿  App.cpp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  62 of 1717 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TaskImGui.vcxproj -> C:\Proga\TaskImGui\TaskImGui.exe
