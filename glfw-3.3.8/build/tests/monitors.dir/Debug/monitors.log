@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Proga/Cpp/TaskImGui/glfw-3.3.8/tests/CMakeLists.txt
+  monitors.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  monitors.vcxproj -> C:\Proga\Cpp\TaskImGui\glfw-3.3.8\build\tests\Debug\monitors.exe

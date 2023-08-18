@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Proga/Cpp/TaskImGui/glfw-3.3.8/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  particles.vcxproj -> C:\Proga\Cpp\TaskImGui\glfw-3.3.8\build\examples\Debug\particles.exe

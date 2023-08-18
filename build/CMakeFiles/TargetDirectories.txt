@@ -1,0 +1,6 @@
+C:/Proga/Cpp/TaskImGui/build/CMakeFiles/TaskImGui.dir
+C:/Proga/Cpp/TaskImGui/build/CMakeFiles/edit_cache.dir
+C:/Proga/Cpp/TaskImGui/build/CMakeFiles/rebuild_cache.dir
+C:/Proga/Cpp/TaskImGui/build/lib/CMakeFiles/imgui.dir
+C:/Proga/Cpp/TaskImGui/build/lib/CMakeFiles/edit_cache.dir
+C:/Proga/Cpp/TaskImGui/build/lib/CMakeFiles/rebuild_cache.dir
